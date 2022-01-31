@@ -1,0 +1,137 @@
+* {
+  margin: 0rem;
+  padding: 0;
+  box-sizing: border-box;
+
+  /* font-family: "Mochiy Pop P One", sans-serif; */
+}
+
+body {
+  margin: 2.5rem;
+  margin-top: 1.8rem !important;
+}
+
+.gg {
+  margin-top: 14px;
+
+  /* margin-left: 3rem; */
+}
+
+.head {
+  color: black;
+
+  /* font-size: ; */
+}
+
+.verify {
+  margin-left: 2px;
+}
+
+.nft {
+  margin-left: 22px !important;
+}
+
+.verify img {
+  height: 19px;
+  width: 18px;
+}
+
+.nft {
+  color: #727272;
+  margin-left: -0.25rem;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+}
+
+.ll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(96, 104, 108, 0.7);
+  border-radius: 45px;
+  width: 200px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.fa-fire-alt {
+  color: #ff7816;
+}
+
+.navbar {
+  display: flex;
+}
+
+.text {
+  margin-left: -8px;
+}
+
+.current,
+.ll:hover {
+  background-color: black;
+  color: white;
+}
+
+.fa-gem {
+  color: #80c7eb;
+}
+
+.fa-gopuram {
+  color: brown;
+}
+
+.fa-hippo {
+  color: black;
+}
+
+.main {
+  display: flex;
+  margin: 2rem;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+  margin-top: 1.5rem;
+}
+
+.para {
+  color: white;
+  background-color: black;
+  margin-top: -10px;
+  height: 125px;
+}
+
+.para p {
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.box .img {
+  height: 155px;
+}
+
+.para .button {
+  font-size: 12px;
+  font-weight: normal;
+  color: white;
+  border: 1px solid #1f1f1f;
+  padding-top: 8px;
+  padding-left: 7px;
+  width: 80px;
+  height: 40px;
+  background-color: #171717;
+  margin-left: 20px;
+}
